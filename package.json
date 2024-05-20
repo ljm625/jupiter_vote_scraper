@@ -1,0 +1,25 @@
+{
+  "name": "bilibili_scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljm625/bilibili_scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljm625/bilibili_scraper/issues"
+  },
+  "homepage": "https://github.com/ljm625/bilibili_scraper#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "js-yaml": "^4.1.0",
+    "playwright": "1.33.0"
+  }
+}
